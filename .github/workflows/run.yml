@@ -32,9 +32,8 @@ jobs:
           echo "WIN_EXTRA=https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt" >> $GITHUB_ENV
           echo "NOTRACKING_DOMAINS_URL=https://github.com/notracking/hosts-blocklists/blob/master/domains.txt" >> $GITHUB_ENV
           echo "EASYLIST_URL=https://easylist.to/easylist/easylist.txt" >> $GITHUB_ENV
-echo "Lightswitch05_URL="https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt" >> $GITHUB_ENV
-
-echo "HaGeZi_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt" >> $GITHUB_ENV
+          echo "Lightswitch05_URL="https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt" >> $GITHUB_ENV
+          echo "HaGeZi_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt" >> $GITHUB_ENV
         shell: bash
 
       - name: Checkout the "hidden" branch of this repo

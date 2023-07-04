@@ -2876,7 +2876,6 @@ a.ltdnc.com
 a.lwinl.com
 a.lz13.cn
 a.m.shuhuangge.org
-a.market.xiaomi.com
 a.maxxhotel.com
 a.mayakinfo.ru
 a.mercuriurval.com
@@ -5977,8 +5976,10 @@ addroplet.com
 addserver.mtv.com.tr
 addstock.co.uk
 addthief.com
+addthis.com
 addthis.fr
 addthiscdn.com
+addthisedge.com
 addtoany.com
 addtop.trangvangvietnam.com
 addvantagetechnology.com
@@ -10094,7 +10095,9 @@ alignmentflattery.com
 alikeaddition.com
 alikearm.com
 alikosx.ml
+alimama.alicdn.com
 alimama.cn
+alimama.com
 alimb.top
 alime-pic.oss-cn-hangzhou.aliyuncs.com
 alimonyarmisticesnap.com
@@ -10888,6 +10891,7 @@ analytics.givealittle.co
 analytics.global.sky.com
 analytics.go.com
 analytics.gokwik.co
+analytics.google.com
 analytics.gooogol.com
 analytics.gorillanation.com
 analytics.grape.media
@@ -12108,6 +12112,7 @@ app.catchconnect.com.au
 app.cb.pnc.com
 app.centreinthesquare.com
 app.chartwayarena.com
+app.chat.xiaomi.net
 app.chewy.com
 app.cimarketing.aig.com
 app.citibikenyc.com
@@ -20794,6 +20799,7 @@ click.devemails.skechers.com
 click.dice.com
 click.digiato.com
 click.digital.metaquestmail.com
+click.discord.com
 click.drizly.com
 click.e.affirm.com
 click.e.bbcmail.co.uk
@@ -20844,6 +20850,7 @@ click.payserve.com
 click.pockee.com
 click.qianqian.com
 click.quickenloansnow.com
+click.redditmail.com
 click.rollouki.com
 click.scour.com
 click.signaturemarket.co
@@ -40166,6 +40173,7 @@ iconfitness.fr
 iconnode.com
 iconosquare.com
 iconpeak2trk.com
+icons.mydrivers.com
 iconstadper.com
 iconworkshop.cn
 icorp.ro
@@ -41015,6 +41023,7 @@ img.3sjt.com
 img.86yp.cn
 img.88ads.com
 img.adnyg.com.w.kunlungr.com
+img.alibaba.com
 img.apnanalytics.com
 img.ascontentcloud.com
 img.awr.im
@@ -57749,6 +57758,7 @@ offclaydolon.com
 offdeck.telkomsel.com
 offensivepitcherultimately.com
 offer-go.com
+offer.alibaba.com
 offer.camp
 offer.slgnt.eu
 offerentsentedo.com
@@ -61215,6 +61225,7 @@ pingfore.soso.com
 pinghenghr.com
 pinghot.qq.com
 pingil.com
+pingjs.qq.com
 pingma.qq.com
 pingmeter.com
 pingmid.qq.com
@@ -66278,6 +66289,7 @@ resnikscdn.pro
 resolutekey.com
 resolution.taxdefensenetwork.com
 resolver.gslb.mi-idc.com
+resolver.msg.xiaomi.net
 resolvingserver.com
 reson8.com
 resonance.pk
@@ -67866,6 +67878,7 @@ s.yfycy.com
 s.yhgongsi.com
 s.yidianzixun.com
 s.yorkregion.com
+s.youtube.com
 s.zixuntop.com
 s.zjhoudao.com
 s.zzcdn.me
@@ -70502,7 +70515,6 @@ shostobs.net
 shotstopers.com
 shotyfy.com
 shoubsee.net
-shouji.sougou.com
 shouji.yd126.com
 shouji360.org
 shoujiawang.cn
@@ -78130,6 +78142,7 @@ t.cinemablend.com
 t.clic2buy.com
 t.cnscore.com
 t.cnsjx.net
+t.co
 t.cofcsports.com
 t.collect.yinyuetai.com
 t.comms.thetimes.co.uk
@@ -80787,6 +80800,7 @@ tongj.xilu.com
 tongji-res.meizu.com
 tongji-res1.meizu.com
 tongji.114com.cc
+tongji.baidu.com
 tongji.coccccc.cc
 tongji.eastday.com
 tongji.home.soufun.com
@@ -85068,6 +85082,7 @@ udwgzninhil.com
 udxsuy.helline.fr
 udzsgk.myclassico.com
 ue.flipboard.com
+ue.yeyoucdn.com
 ue3jfw.com
 ue8im.com
 ueadlian.com
